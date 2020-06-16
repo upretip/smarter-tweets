@@ -1,0 +1,1516 @@
+{
+  "statuses": [
+    {
+      "created_at": "Fri May 01 22:35:05 +0000 2020",
+      "id": 1256351462982062080,
+      "id_str": "1256351462982062080",
+      "text": "#ICYMI #ThisDayInHistory in 1893 was the official opening day of the Chicago World's Fair, a grand celebration of h\u2026 https://t.co/HXayQohp7O",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ICYMI",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "ThisDayInHistory",
+            "indices": [
+              7,
+              24
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HXayQohp7O",
+            "expanded_url": "https://twitter.com/i/web/status/1256351462982062080",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222342849,
+        "id_str": "222342849",
+        "name": "Smarter Balanced",
+        "screen_name": "SmarterBalanced",
+        "location": "United States",
+        "description": "Smarter Balanced is a state-led consortium that has developed computer-based assessments in ELA and math aligned to college & career ready standards.",
+        "url": "https://t.co/3VcBKZQlqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3VcBKZQlqj",
+                "display_url": "smarterbalanced.org",
+                "expanded_url": "http://www.smarterbalanced.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20539,
+        "friends_count": 366,
+        "listed_count": 314,
+        "created_at": "Fri Dec 03 04:01:25 +0000 2010",
+        "favourites_count": 835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "008DB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222342849/1487898604",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "009655",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 01 18:20:09 +0000 2020",
+      "id": 1256287309089169408,
+      "id_str": "1256287309089169408",
+      "text": "#ICYMI As we wrap up #EarthMonth and #KeepAmericaBeautifulMonth, challenge students (remotely) to use critical thin\u2026 https://t.co/COqjQ2GcvJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ICYMI",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "EarthMonth",
+            "indices": [
+              21,
+              32
+            ]
+          },
+          {
+            "text": "KeepAmericaBeautifulMonth",
+            "indices": [
+              37,
+              63
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/COqjQ2GcvJ",
+            "expanded_url": "https://twitter.com/i/web/status/1256287309089169408",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222342849,
+        "id_str": "222342849",
+        "name": "Smarter Balanced",
+        "screen_name": "SmarterBalanced",
+        "location": "United States",
+        "description": "Smarter Balanced is a state-led consortium that has developed computer-based assessments in ELA and math aligned to college & career ready standards.",
+        "url": "https://t.co/3VcBKZQlqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3VcBKZQlqj",
+                "expanded_url": "http://www.smarterbalanced.org",
+                "display_url": "smarterbalanced.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20539,
+        "friends_count": 366,
+        "listed_count": 314,
+        "created_at": "Fri Dec 03 04:01:25 +0000 2010",
+        "favourites_count": 835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "008DB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222342849/1487898604",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "009655",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 01 17:48:35 +0000 2020",
+      "id": 1256279363961663488,
+      "id_str": "1256279363961663488",
+      "text": "We asked 4th Grade Teacher Gina Voges a quick question over video conference about her experience with\u2026 https://t.co/M2n1N2dXUw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/M2n1N2dXUw",
+            "expanded_url": "https://twitter.com/i/web/status/1256279363961663488",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://thesocialpresskit.com/\" rel=\"nofollow\">Social Press Kit</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1024325425126768641,
+        "id_str": "1024325425126768641",
+        "name": "California Statewide Assessment System",
+        "screen_name": "CDEAssessments",
+        "location": "Sacramento, CA",
+        "description": "The CDE Assessment Division is committed to establishing innovative achievement and proficiency assessments for the 6.2 million students in California.",
+        "url": "https://t.co/lISVGjLmF5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/lISVGjLmF5",
+                "expanded_url": "https://www.cde.ca.gov/ta/tg/",
+                "display_url": "cde.ca.gov/ta/tg/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1187,
+        "friends_count": 100,
+        "listed_count": 6,
+        "created_at": "Tue Jul 31 16:06:27 +0000 2018",
+        "favourites_count": 181,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 829,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1029103098642411520/ZcfrJqe__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029103098642411520/ZcfrJqe__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1024325425126768641/1534177978",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 01 16:23:09 +0000 2020",
+      "id": 1256257865108672517,
+      "id_str": "1256257865108672517",
+      "text": "RT @NYTimesLearning: Learning at home? Museums, libraries, zoos and even NASA are offering lessons, activities and fun online for all ages.\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NYTimesLearning",
+            "name": "NYT Learning Network",
+            "id": 87502961,
+            "id_str": "87502961",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222342849,
+        "id_str": "222342849",
+        "name": "Smarter Balanced",
+        "screen_name": "SmarterBalanced",
+        "location": "United States",
+        "description": "Smarter Balanced is a state-led consortium that has developed computer-based assessments in ELA and math aligned to college & career ready standards.",
+        "url": "https://t.co/3VcBKZQlqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3VcBKZQlqj",
+                "expanded_url": "http://www.smarterbalanced.org",
+                "display_url": "smarterbalanced.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20539,
+        "friends_count": 366,
+        "listed_count": 314,
+        "created_at": "Fri Dec 03 04:01:25 +0000 2010",
+        "favourites_count": 835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "008DB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222342849/1487898604",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "009655",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Apr 27 16:11:06 +0000 2020",
+        "id": 1254805281181229056,
+        "id_str": "1254805281181229056",
+        "text": "Learning at home? Museums, libraries, zoos and even NASA are offering lessons, activities and fun online for all ag\u2026 https://t.co/6LIYK5XHFC",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/6LIYK5XHFC",
+              "expanded_url": "https://twitter.com/i/web/status/1254805281181229056",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 87502961,
+          "id_str": "87502961",
+          "name": "NYT Learning Network",
+          "screen_name": "NYTimesLearning",
+          "location": "New York, NY",
+          "description": "Teaching & Learning With The New York Times",
+          "url": "https://t.co/dl5BEmsKGP",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/dl5BEmsKGP",
+                  "expanded_url": "https://www.nytimes.com/section/learning",
+                  "display_url": "nytimes.com/section/learni\u2026",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 32617,
+          "friends_count": 1098,
+          "listed_count": 1474,
+          "created_at": "Wed Nov 04 18:45:48 +0000 2009",
+          "favourites_count": 4428,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 22898,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/964866183940861952/8ynw01Qw_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/964866183940861952/8ynw01Qw_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/87502961/1405535849",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 01 15:20:10 +0000 2020",
+      "id": 1256242012401086466,
+      "id_str": "1256242012401086466",
+      "text": "#ThisDayInHistory in 1893 was the official opening day at the Chicago World's Fair, a celebration of achievements f\u2026 https://t.co/o1rpv0fvWT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ThisDayInHistory",
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/o1rpv0fvWT",
+            "expanded_url": "https://twitter.com/i/web/status/1256242012401086466",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222342849,
+        "id_str": "222342849",
+        "name": "Smarter Balanced",
+        "screen_name": "SmarterBalanced",
+        "location": "United States",
+        "description": "Smarter Balanced is a state-led consortium that has developed computer-based assessments in ELA and math aligned to college & career ready standards.",
+        "url": "https://t.co/3VcBKZQlqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3VcBKZQlqj",
+                "expanded_url": "http://www.smarterbalanced.org",
+                "display_url": "smarterbalanced.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20539,
+        "friends_count": 366,
+        "listed_count": 314,
+        "created_at": "Fri Dec 03 04:01:25 +0000 2010",
+        "favourites_count": 835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "008DB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222342849/1487898604",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "009655",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Apr 30 20:20:11 +0000 2020",
+      "id": 1255955128483565569,
+      "id_str": "1255955128483565569",
+      "text": "As we wrap up #EarthMonth and #KeepAmericaBeautifulMonth, challenge students (remotely) to use critical thinking sk\u2026 https://t.co/qHYdmCwNim",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "EarthMonth",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "text": "KeepAmericaBeautifulMonth",
+            "indices": [
+              30,
+              56
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qHYdmCwNim",
+            "expanded_url": "https://twitter.com/i/web/status/1255955128483565569",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222342849,
+        "id_str": "222342849",
+        "name": "Smarter Balanced",
+        "screen_name": "SmarterBalanced",
+        "location": "United States",
+        "description": "Smarter Balanced is a state-led consortium that has developed computer-based assessments in ELA and math aligned to college & career ready standards.",
+        "url": "https://t.co/3VcBKZQlqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3VcBKZQlqj",
+                "expanded_url": "http://www.smarterbalanced.org",
+                "display_url": "smarterbalanced.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20539,
+        "friends_count": 366,
+        "listed_count": 314,
+        "created_at": "Fri Dec 03 04:01:25 +0000 2010",
+        "favourites_count": 835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "008DB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222342849/1487898604",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "009655",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Apr 30 19:56:48 +0000 2020",
+      "id": 1255949243518300161,
+      "id_str": "1255949243518300161",
+      "text": "RT @CDEAssessments: Use a @SmarterBalanced #PerformanceTask that challenges students to research and write about islands around the world.\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PerformanceTask",
+            "indices": [
+              43,
+              59
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CDEAssessments",
+            "name": "California Statewide Assessment System",
+            "id": 1024325425126768641,
+            "id_str": "1024325425126768641",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "SmarterBalanced",
+            "name": "Smarter Balanced",
+            "id": 222342849,
+            "id_str": "222342849",
+            "indices": [
+              26,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1159863696845201408,
+        "id_str": "1159863696845201408",
+        "name": "Anne Bonilla",
+        "screen_name": "anacanadeh",
+        "location": "",
+        "description": "American Canadian teacher leader mom",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 74,
+        "listed_count": 0,
+        "created_at": "Fri Aug 09 16:27:09 +0000 2019",
+        "favourites_count": 392,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 133,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159865162112720896/PqdAIdPQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159865162112720896/PqdAIdPQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Apr 21 19:28:44 +0000 2020",
+        "id": 1252680689943748612,
+        "id_str": "1252680689943748612",
+        "text": "Use a @SmarterBalanced #PerformanceTask that challenges students to research and write about islands around the wor\u2026 https://t.co/HRtRLP2JOQ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "PerformanceTask",
+              "indices": [
+                23,
+                39
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "SmarterBalanced",
+              "name": "Smarter Balanced",
+              "id": 222342849,
+              "id_str": "222342849",
+              "indices": [
+                6,
+                22
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/HRtRLP2JOQ",
+              "expanded_url": "https://twitter.com/i/web/status/1252680689943748612",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://thesocialpresskit.com/\" rel=\"nofollow\">Social Press Kit</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1024325425126768641,
+          "id_str": "1024325425126768641",
+          "name": "California Statewide Assessment System",
+          "screen_name": "CDEAssessments",
+          "location": "Sacramento, CA",
+          "description": "The CDE Assessment Division is committed to establishing innovative achievement and proficiency assessments for the 6.2 million students in California.",
+          "url": "https://t.co/lISVGjLmF5",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/lISVGjLmF5",
+                  "expanded_url": "https://www.cde.ca.gov/ta/tg/",
+                  "display_url": "cde.ca.gov/ta/tg/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1187,
+          "friends_count": 100,
+          "listed_count": 6,
+          "created_at": "Tue Jul 31 16:06:27 +0000 2018",
+          "favourites_count": 181,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 829,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1029103098642411520/ZcfrJqe__normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029103098642411520/ZcfrJqe__normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1024325425126768641/1534177978",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 29 22:00:41 +0000 2020",
+      "id": 1255618032380063744,
+      "id_str": "1255618032380063744",
+      "text": "#ICYMI 16 years ago on #ThisDayInHistory, the World War II Memorial opened in Washington, D.C. Check out this digit\u2026 https://t.co/trChHdyMoI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ICYMI",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "ThisDayInHistory",
+            "indices": [
+              23,
+              40
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/trChHdyMoI",
+            "expanded_url": "https://twitter.com/i/web/status/1255618032380063744",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222342849,
+        "id_str": "222342849",
+        "name": "Smarter Balanced",
+        "screen_name": "SmarterBalanced",
+        "location": "United States",
+        "description": "Smarter Balanced is a state-led consortium that has developed computer-based assessments in ELA and math aligned to college & career ready standards.",
+        "url": "https://t.co/3VcBKZQlqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3VcBKZQlqj",
+                "expanded_url": "http://www.smarterbalanced.org",
+                "display_url": "smarterbalanced.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20539,
+        "friends_count": 366,
+        "listed_count": 314,
+        "created_at": "Fri Dec 03 04:01:25 +0000 2010",
+        "favourites_count": 835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "008DB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222342849/1487898604",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "009655",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 29 18:05:13 +0000 2020",
+      "id": 1255558771990048772,
+      "id_str": "1255558771990048772",
+      "text": "#ICYMI In this resource from @pbsteachers, an elementary educator shares tips on engaging younger learners digitall\u2026 https://t.co/4QXwBaIaXE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ICYMI",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pbsteachers",
+            "name": "PBS Teachers",
+            "id": 18777269,
+            "id_str": "18777269",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4QXwBaIaXE",
+            "expanded_url": "https://twitter.com/i/web/status/1255558771990048772",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222342849,
+        "id_str": "222342849",
+        "name": "Smarter Balanced",
+        "screen_name": "SmarterBalanced",
+        "location": "United States",
+        "description": "Smarter Balanced is a state-led consortium that has developed computer-based assessments in ELA and math aligned to college & career ready standards.",
+        "url": "https://t.co/3VcBKZQlqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3VcBKZQlqj",
+                "expanded_url": "http://www.smarterbalanced.org",
+                "display_url": "smarterbalanced.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20539,
+        "friends_count": 366,
+        "listed_count": 314,
+        "created_at": "Fri Dec 03 04:01:25 +0000 2010",
+        "favourites_count": 835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "008DB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222342849/1487898604",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "009655",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 29 15:01:00 +0000 2020",
+      "id": 1255512412687667201,
+      "id_str": "1255512412687667201",
+      "text": "16 years ago on #ThisDayInHistory, the World War II Memorial opened in Washington, D.C. Check out this digital coll\u2026 https://t.co/nH1CxtWRnK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ThisDayInHistory",
+            "indices": [
+              16,
+              33
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nH1CxtWRnK",
+            "expanded_url": "https://twitter.com/i/web/status/1255512412687667201",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222342849,
+        "id_str": "222342849",
+        "name": "Smarter Balanced",
+        "screen_name": "SmarterBalanced",
+        "location": "United States",
+        "description": "Smarter Balanced is a state-led consortium that has developed computer-based assessments in ELA and math aligned to college & career ready standards.",
+        "url": "https://t.co/3VcBKZQlqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3VcBKZQlqj",
+                "expanded_url": "http://www.smarterbalanced.org",
+                "display_url": "smarterbalanced.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20539,
+        "friends_count": 366,
+        "listed_count": 314,
+        "created_at": "Fri Dec 03 04:01:25 +0000 2010",
+        "favourites_count": 835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "008DB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222342849/1487898604",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "009655",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Apr 28 22:55:05 +0000 2020",
+      "id": 1255269332302643202,
+      "id_str": "1255269332302643202",
+      "text": "In this resource from @pbsteachers, an elementary educator shares tips on engaging younger learners digitally, with\u2026 https://t.co/apE4fDtrdt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pbsteachers",
+            "name": "PBS Teachers",
+            "id": 18777269,
+            "id_str": "18777269",
+            "indices": [
+              22,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/apE4fDtrdt",
+            "expanded_url": "https://twitter.com/i/web/status/1255269332302643202",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222342849,
+        "id_str": "222342849",
+        "name": "Smarter Balanced",
+        "screen_name": "SmarterBalanced",
+        "location": "United States",
+        "description": "Smarter Balanced is a state-led consortium that has developed computer-based assessments in ELA and math aligned to college & career ready standards.",
+        "url": "https://t.co/3VcBKZQlqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3VcBKZQlqj",
+                "expanded_url": "http://www.smarterbalanced.org",
+                "display_url": "smarterbalanced.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20539,
+        "friends_count": 366,
+        "listed_count": 314,
+        "created_at": "Fri Dec 03 04:01:25 +0000 2010",
+        "favourites_count": 835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3175,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "008DB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499599665365405696/5jy1RIsE_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222342849/1487898604",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "009655",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.035,
+    "max_id": 1256351462982062080,
+    "max_id_str": "1256351462982062080",
+    "next_results": "?max_id=1255269332302643201&q=smarterbalanced&include_entities=1",
+    "query": "smarterbalanced",
+    "refresh_url": "?since_id=1256351462982062080&q=smarterbalanced&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
